@@ -20,28 +20,28 @@ body {
 }
 
 .section-card {
-  padding: 2rem 2rem 5rem 2rem;
+  padding: 1rem 1rem 3rem 1rem;
   background-color: #fff;
-  width: 400px;
-  border-radius: 30px;
+  width: 300px;
+  border-radius: 20px;
 }
 .section-card img {
   width: 100%;
   border-radius: 15px;
 }
 .section-card__qr-box {
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 .section-card__info {
   text-align: center;
   padding: 0 3rem;
 }
 .section-card__title {
-  margin-bottom: 2rem;
-  font-size: 2.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 1.8rem;
   font-weight: 600;
 }
 .section-card__description {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   color: #ababab;
 }/*# sourceMappingURL=style.css.map */
