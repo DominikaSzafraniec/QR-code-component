@@ -16,13 +16,13 @@ body {
   gap: 4rem;
   min-height: 100vh;
   font-family: "Outfit", sans-serif;
-  background: #ddd;
+  background: #c6e5f5;
 }
 
 .section-card {
   padding: 2rem 2rem 5rem 2rem;
   background-color: #fff;
-  width: 500px;
+  width: 400px;
   border-radius: 30px;
 }
 .section-card img {
@@ -38,10 +38,10 @@ body {
 }
 .section-card__title {
   margin-bottom: 2rem;
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   font-weight: 600;
 }
 .section-card__description {
-  font-size: 2.4rem;
+  font-size: 1.8rem;
   color: #ababab;
 }/*# sourceMappingURL=style.css.map */
