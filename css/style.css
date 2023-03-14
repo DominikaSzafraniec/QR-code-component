@@ -4,11 +4,44 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 body {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 4rem;
   min-height: 100vh;
   font-family: "Outfit", sans-serif;
+  background: #ddd;
+}
+
+.section-card {
+  padding: 2rem 2rem 5rem 2rem;
+  background-color: #fff;
+  width: 500px;
+  border-radius: 30px;
+}
+.section-card img {
+  width: 100%;
+  border-radius: 15px;
+}
+.section-card__qr-box {
+  margin-bottom: 2rem;
+}
+.section-card__info {
+  text-align: center;
+  padding: 0 3rem;
+}
+.section-card__title {
+  margin-bottom: 2rem;
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+.section-card__description {
+  font-size: 2.4rem;
+  color: #ababab;
 }/*# sourceMappingURL=style.css.map */
